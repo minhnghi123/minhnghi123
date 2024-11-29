@@ -1,7 +1,5 @@
 <h1 align="center" style="color: #00ffcc;">Hi 👋, I'm Alien Nguyen</h1>
 <h3 align="center" style="color: #ffffff;">A passionate backend developer from VietNam</h3>
----
-
 <h3 align="left" style="color: #00ffcc;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
